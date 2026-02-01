@@ -97,11 +97,5 @@ I build scalable, secure and modern web & mobile applications using MERN, REST A
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumarraj966&theme=radical&row=1&column=6"/>
 
----
-
-## ✍️ Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
----
 
 ⭐ **Let’s build something amazing together!**
