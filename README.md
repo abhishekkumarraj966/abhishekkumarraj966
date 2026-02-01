@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋  
 
-<!--
-**abhishekkumarraj966/abhishekkumarraj966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | React | Tailwind CSS | JavaScript  
+Founder of **Xpander Tech Solutions**
 
-Here are some ideas to get you started:
+I build responsive, fast and user-friendly web apps using modern frontend tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Tech Stack
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🟨 JavaScript  
+- 🌐 HTML5, CSS3  
+- 🔧 Git, GitHub, Vercel  
+- 🧩 Node.js (Basics)
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Tech |
+|--------|------------|------|
+| **IMDB Clone** | Movie app using API | React, JS |
+| **Todo List** | Task manager | Vanilla JS |
+| **Polling API System** | Backend voting system | Node.js |
+| **EMP_RS** | Employee record system | JS |
+
+---
+
+## 📫 Contact Me
+- 🌐 Portfolio: https://myportfolio-gules-theta.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-raj-71ab311a4  
+- 📧 Email: (optional)
+
+---
+
+⭐ If you like my work, give a star!
