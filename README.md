@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Raj</h1>
 <h3 align="center">
-Full Stack Developer | React, Node.js | Capital Curv Pvt. Ltd.
+Full Stack Developer | React, Next.js, Node.js | Golden Space Realty Pvt. Ltd.
 </h3>
 
 <p align="center">
