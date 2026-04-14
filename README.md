@@ -12,7 +12,7 @@ Full Stack Developer | React, Next.js, Node.js | Golden Space Realty Pvt. Ltd.
 ---
 
 ## 👨‍💻 About Me
-I'm a **Full Stack Developer** currently working at **Capital Curv Private Limited**.  
+I'm a **Full Stack Developer** currently working at **Golden Space Realty Private Limited**.  
 I build scalable, secure and modern web & mobile applications using MERN, REST APIs, real-time systems, and cloud deployments.
 
 ---
